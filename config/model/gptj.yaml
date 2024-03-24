@@ -1,0 +1,8 @@
+name_or_path: /cluster/work/cotterell/afra/openai_summarize_tldr_sft
+tokenizer_name_or_path: null
+archive: null
+block_name: GPTJBlock
+
+policy_dtype: float32
+fsdp_policy_mp: null
+reference_dtype: float16
