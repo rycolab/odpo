@@ -102,12 +102,20 @@ sample_during_eval=false
 # Citing ODPO
 If ODPO or this repository is useful in your own research, you can use the following BibTeX entry:
 
-    @misc{amini2024direct,
-      title={Direct Preference Optimization with an Offset}, 
-      author={Afra Amini and Tim Vieira and Ryan Cotterell},
-      url={https://arxiv.org/pdf/2402.10571},
-      year={2024},
-      eprint={2402.10571},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
+    @inproceedings{amini-etal-2024-direct,
+    title = "Direct Preference Optimization with an Offset",
+    author = "Amini, Afra  and
+    Vieira, Tim  and
+    Cotterell, Ryan",
+    editor = "Ku, Lun-Wei  and
+    Martins, Andre  and
+    Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.592/",
+    doi = "10.18653/v1/2024.findings-acl.592",
+    pages = "9954--9972",
     }
